@@ -3,9 +3,9 @@ This project demonstrates the use of Selenium WebDriver for automating web inter
 
 The project contains three main scripts:
 
--Task_20_Cowin.py - Automates navigation on the CoWIN website.
--Task_20_Labour.py - Automates interactions with the Labour Ministry website.
--test_Cowin.py and test_Labour.py - Test scripts to verify the functionality of the web automation scripts.
+- Task_20_Cowin.py - Automates navigation on the CoWIN website.
+- Task_20_Labour.py - Automates interactions with the Labour Ministry website.
+- test_Cowin.py and test_Labour.py - Test scripts to verify the functionality of the web automation scripts.
 
 ## Table of Contents:
 - [Features](#features)
@@ -16,15 +16,15 @@ The project contains three main scripts:
 - [Running the Tests](#running-the-tests)
 
 ## Features:
--Navigate to the FAQ and Partners sections on the CoWIN website.
+- Navigate to the FAQ and Partners sections on the CoWIN website.
 
--Handle multiple browser windows and perform actions like opening, switching, and closing windows.
+- Handle multiple browser windows and perform actions like opening, switching, and closing windows.
 
--Download PDF files and images from the Labour Ministry website.
+- Download PDF files and images from the Labour Ministry website.
 
--Manage window handles for multiple browser tabs.
+- Manage window handles for multiple browser tabs.
 
--Automated testing using pytest to ensure the correctness of the scripts.
+- Automated testing using pytest to ensure the correctness of the scripts.
 
 ## Prerequisites
 - Python 3.x
@@ -68,6 +68,7 @@ To successfully set up and run the Selenium Automation Testing Project, follow t
           Install WebDriver Manager Module: `pip install webdriver-manager`
 
 ## Project Structure
+```
 PAT Task 20/
 │
 ├── Task_20_Cowin.py                # CoWIN website automation script
@@ -76,7 +77,7 @@ PAT Task 20/
 ├── test_Labour.py                  # Test file for Labour automation
 ├── downloaded_photos               # Downloaded photos from the Labour website
 └── README.md                       # Project description and usage
-
+```
 
 ## Code Explanation
 ### CoWIN Automation (Task_20_Cowin.py)
