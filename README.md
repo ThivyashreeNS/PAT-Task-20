@@ -13,7 +13,6 @@ The project contains three main scripts:
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Code Explanation](#Code-Explanation)
-- [Running the Tests](#running-the-tests)
 
 ## Features:
 - Navigate to the FAQ and Partners sections on the CoWIN website.
